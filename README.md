@@ -2,6 +2,6 @@
   
 # NumberGuesser
 
-Just a simple terminal game. The game has unlimited levels!
+Just a simple terminal game with unlimited levels!
 
 </div>
